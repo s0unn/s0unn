@@ -1,4 +1,10 @@
-개?발자
+# 개?발자
 
-Languages:
-C, Python, Lua :)
+## Languages (still learning):
+* C
+* Python
+* Lua
+* HTML (maybe)
+
+## Current Projects
+* Probably some discord bots
