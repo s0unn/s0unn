@@ -1,6 +1,6 @@
 # 개?발자
 
-## Languages (still learning):
+## Languages (still learning)
 * C
 * Python
 * Lua
