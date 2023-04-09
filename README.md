@@ -1,4 +1,4 @@
-# 개?발자
+# Discord Bot Developer
 
 ## Languages (still learning)
 * C
