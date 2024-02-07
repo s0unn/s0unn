@@ -1,11 +1,16 @@
-# :wave: Welcome!
+<div align="center">
 
-## :books: Languages (still learning)
-* **C** - For basics and low-level programming
-* **Python** - For general usage
-* **Lua** - For scripting
-* **HTML/CSS** - For web development
-* **Dart(Flutter)** - For application development
+# :wave: Welcome!
+Welcome to my GitHub profile!
+
+<img src="https://img.shields.io/badge/r-red-a-orange-i-yellow">
+
+<br/>
+
+### :books: Tech Stacks :books:
+<img src="https://img.shields.io/badge/3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<br/>
 
 ## Current Projects
 * 
